@@ -8,11 +8,11 @@ email:            faketooth.github@gmail.com
 description: >    # 主题简介，可改为博客描述
   闲来无事开脑洞
 
-url:              "/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
+url:              "faketooth.github.io/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
 baseurl:          "" # the subpath of your site, e.g. /blog/
 
 twitter:          # 添加你的 Twitter 用户名
-github:           jekyll # 添加你的 GitHub 用户名
+github:           faketooth # 添加你的 GitHub 用户名
 disqus:           # 添加你的 Disqus 评论工具站点名
 
 permalink:        pretty
