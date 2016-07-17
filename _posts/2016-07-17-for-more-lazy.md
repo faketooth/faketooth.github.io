@@ -39,5 +39,5 @@ I
 
 课程里提到的优化方法基本在用，说点其他的新的好了。
 
-* 搜索
+* 搜索：listy vs everythin
 * XShell：Windows 下连接 Linux 的 Shell 工具 
