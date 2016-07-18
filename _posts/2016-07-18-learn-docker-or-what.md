@@ -3,7 +3,7 @@ layout: post
 title:  "刷本 Docker 书"
 categories: blog
 description: 过时了，现在的版本里好多命令都不对了
-image: https://img1.doubanio.com/lpic/s27967469.jpg
+image: Docker_s27967469.jpg
 ---
 
 ## 刷本 Docker 书
